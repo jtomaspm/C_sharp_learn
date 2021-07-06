@@ -1,0 +1,9 @@
+D:\jtoma\Documents\code\C#\GraphicsLearn\GraphicsLearn\bin\Debug\GraphicsLearn.exe.config
+D:\jtoma\Documents\code\C#\GraphicsLearn\GraphicsLearn\bin\Debug\GraphicsLearn.exe
+D:\jtoma\Documents\code\C#\GraphicsLearn\GraphicsLearn\bin\Debug\GraphicsLearn.pdb
+D:\jtoma\Documents\code\C#\GraphicsLearn\GraphicsLearn\obj\Debug\GraphicsLearn.csprojAssemblyReference.cache
+D:\jtoma\Documents\code\C#\GraphicsLearn\GraphicsLearn\obj\Debug\GraphicsLearn.csproj.CoreCompileInputs.cache
+D:\jtoma\Documents\code\C#\GraphicsLearn\GraphicsLearn\obj\Debug\GraphicsLearn.exe
+D:\jtoma\Documents\code\C#\GraphicsLearn\GraphicsLearn\obj\Debug\GraphicsLearn.pdb
+D:\jtoma\Documents\code\C#\GraphicsLearn\GraphicsLearn\obj\Debug\GraphicsLearn.csproj.GenerateResource.cache
+D:\jtoma\Documents\code\C#\GraphicsLearn\GraphicsLearn\obj\Debug\GraphicsLearn.FormWindow.resources
